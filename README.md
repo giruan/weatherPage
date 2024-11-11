@@ -3,7 +3,7 @@
 1. [react.js]를 이용하여 사이트를 제작합니다. 
 
 ## 완성작 보기 
-미리보기 : https://giruan.github.io/
+미리보기 : https://giruan.github.io/weatherPage/
 
 ## 사용 스택
 - react
