@@ -23,7 +23,7 @@
 - "script"에 
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build" 
-내용을 추가해주세요.
+내용을 추가한다.
 
 - 그후 "homepage"항목을 만들고 호스팅될 주소(이전 단계에서 만든 페이지의 주소)를 입력해준다.
 - EX: "homepage": "https://giruan.github.io/ABC/",
